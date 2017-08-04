@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26430.12
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stealer", "Stealer\Stealer.csproj", "{B18951C2-9353-4C4A-8DA2-3F64D41004A8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01HarestingFields", "01HarestingFields\01HarestingFields.csproj", "{7F012308-C208-4E3D-97AA-1AB63A28AEE6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02BlackBoxInteger", "02BlackBoxInteger\02BlackBoxInteger.csproj", "{56403F2F-210D-4F01-AC6C-A31B8CBB305B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +13,14 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{B18951C2-9353-4C4A-8DA2-3F64D41004A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{B18951C2-9353-4C4A-8DA2-3F64D41004A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{B18951C2-9353-4C4A-8DA2-3F64D41004A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{B18951C2-9353-4C4A-8DA2-3F64D41004A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F012308-C208-4E3D-97AA-1AB63A28AEE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F012308-C208-4E3D-97AA-1AB63A28AEE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F012308-C208-4E3D-97AA-1AB63A28AEE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F012308-C208-4E3D-97AA-1AB63A28AEE6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56403F2F-210D-4F01-AC6C-A31B8CBB305B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56403F2F-210D-4F01-AC6C-A31B8CBB305B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56403F2F-210D-4F01-AC6C-A31B8CBB305B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56403F2F-210D-4F01-AC6C-A31B8CBB305B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
